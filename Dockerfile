@@ -42,6 +42,7 @@ COPY --from=builder /app/web/.next/standalone ./
 COPY --from=builder /app/web/.next/static ./.next/static
 
 COPY docker/entrypoint.sh ./entrypoint.sh
+COPY LICENSE ./LICENSE
 
 RUN pnpm add -g pm2 \
     && mkdir /.pm2 \
