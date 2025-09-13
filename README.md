@@ -1,6 +1,6 @@
 # muixstudio.com
 
-Welcome to MuixStudio, Click [here](https://www.muixstudio.com) to know this.
+Welcome to MuixStudio, Click [here](https://muixstudio.com) to know this.
 
 ## Quick Start
 
